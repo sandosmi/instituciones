@@ -6,7 +6,7 @@ export default function Text(props){//props:propiedades
             <p>
                 {props.mitexto}
             </p>
-            <p>El resultado es: {props.valor1 * props.valor2}</p>
+            <p>The result es: {props.valor1 * props.valor2}</p>
         </div>
     )
 }
